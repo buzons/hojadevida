@@ -2,8 +2,8 @@
 <img src="https://user-images.githubusercontent.com/126476898/221572765-633639b4-ecbb-424d-8938-2369237a189e.jpeg"
      alt="La cabeza y el torso de un esqueleto de dinosaurio;
            tiene una cabeza grande con dientes largos y afilados"
-     width="400"
-     height="400">
+     width="200"
+     height="200">
 # Datos Informativos 
  |**Nombres**| Samuel Jose |
  |---------|----------|
