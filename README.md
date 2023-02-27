@@ -1,26 +1,31 @@
-![WhatsApp Image 2023-02-27 at 8 05 51 AM](https://user-images.githubusercontent.com/126476898/221572765-633639b4-ecbb-424d-8938-2369237a189e.jpeg)
-<img src="images/dinosaur.jpg">
-# datos informativos 
- |**nombres**| Samuel |
+# **Hoja De Vida** 
+<img src="https://user-images.githubusercontent.com/126476898/221572765-633639b4-ecbb-424d-8938-2369237a189e.jpeg"
+     alt="La cabeza y el torso de un esqueleto de dinosaurio;
+           tiene una cabeza grande con dientes largos y afilados"
+     width="400"
+     height="400">
+# Datos Informativos 
+ |**Nombres**| Samuel Jose |
  |---------|----------|
- |**apellidos**| Buzon  cantillo |
- |**fecha de nacimiento**| 09 de octubre de 2005 |
- |**edad**| 17 años |
- |**estado civil**| union libre |
- |**direccion domiciliaria**| calle 30 centro industrial y de aviacion de barranquilla calle 30 n° 3E 164 barranquilla |
+ |**Apellidos**| Buzon  Cantillo |
+ |**Fecha de Nacimiento**| 09 de octubre de 2005 |
+ |**Edad**| 17 años |
+ |**Estado Civil**| Union Libre |
+ |**Direccion domiciliaria**| Calle 30 Centro Industrial y De Aviacion De Barranquilla Calle 30 n° 3E 164 Barranquilla |
  |**e-mail**| buzonsamuel18@gmail.com |
- |**tarjeta de identidad**| 1047039742 |
- |**celular**| 3043497896 |
+ |**Tarjeta de identidad**| 1047039742 |
+ |**Celular**| 3043497896 |
 
-# estudios 
-|**primaria**| I.E.T.E.C.I |
+# Estudios 
+|**Primaria**| I.E.T.E.C.I |
 |---------|-------------|
-|**secundaria**| I.E.T.E.C.I |
-|**superior**| Sena |
+|**Secundaria**| I.E.T.E.C.I |
+|**Superior**| Sena |
 
-#titulos
-|**bachiderato| tecnologo en contaduria , tecnologo en mercadeo |
-|**superior**| Sena |
+# titulos
+|**Bachiderato**| Tecnologo En Contaduria , Tecnologo en mercadeo |
+|----------------|-----------------------------------------------|
+|**Superior**| Sena |
 
 
 
