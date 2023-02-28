@@ -5,8 +5,8 @@
      width="200"
      height="200">
 # Datos Informativos 
- |**Nombres**| Samuel Jose |
- |---------|----------|
+ |**Nombres**|__Samuel Jose__|
+ |-----------|------------------|
  |**Apellidos**| Buzon  Cantillo |
  |**Fecha de Nacimiento**| 09 de octubre de 2005 |
  |**Edad**| 17 años |
@@ -21,11 +21,16 @@
 |---------|-------------|
 |**Secundaria**| I.E.T.E.C.I |
 |**Superior**| Sena |
+|**habilidades**| __Ediciones de textos__ |
+|**habilidades**| __Wordpress__ |
+|**leguaje**| __Ingles B1__|
+|**conocimiento**| __Contenido de sitios web__|
 
 # titulos
 |**Bachiderato**| Tecnologo En Contaduria , Tecnologo en mercadeo |
 |----------------|-----------------------------------------------|
 |**Superior**| Sena |
-
+ 
+ 
 
 
